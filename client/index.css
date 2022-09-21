@@ -1,10 +1,15 @@
 img {
-    height: 200px;
+    height: 500px;
+    border-radius: 50%;
 }
 body {
     background-color: antiquewhite;
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
 }
 h1{
-    background-color: cornflowerblue;
+    background-color: cyan;
     color: indigo;
+}
+div{
+    text-align: center;
 }
